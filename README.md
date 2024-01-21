@@ -7,7 +7,7 @@ This is a web based application developed for Beauty care website.
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 ** Project Link ** -  https://happy-ocean-0ef8e0000.4.azurestaticapps.net/
-**Project demo video link ** - https://https://youtu.be/JJmKvYSOVyk?si=n8dPNLpLumjQQyFt
+**Project demo video link ** - https://youtu.be/JJmKvYSOVyk?si=VkfnKKZEXcmw5WOW)
 
 
 ## Azure Technologies used for Project
